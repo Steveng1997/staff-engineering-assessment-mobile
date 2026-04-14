@@ -3,7 +3,7 @@ A professional, cross-platform Task Management application built with **Ionic Fr
 
 # 🚀 Live Demo & Installation
 You can download the compiled Android executable (APK) directly from the official release:
-👉 Download APK v1.0.0
+👉 https://github.com/Steveng1997/staff-engineering-assessment-mobile/releases/tag/v1.0.0
 
 # 🛠️ Technical Stack
 
