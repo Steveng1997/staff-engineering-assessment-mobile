@@ -5,6 +5,9 @@ A professional, cross-platform Task Management application built with **Ionic Fr
 You can download the compiled Android executable (APK) directly from the official release:
 👉 https://github.com/Steveng1997/staff-engineering-assessment-mobile/releases/tag/v1.0.0
 
+## 📺 Video Demo
+[Click here to watch the technical walkthrough](https://github.com/Steveng1997/staff-engineering-assessment-mobile/releases/download/v1.0.0/Steven_Garcia_Staff_Mobile_Assessment_Demo.mp4)
+
 # 🛠️ Technical Stack
 
 **Framework:** Ionic 7+ / Angular 17+ (Standalone Components).
