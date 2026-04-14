@@ -1,12 +1,11 @@
 # Task Manager Pro - Staff Engineering Challenge
 A professional, cross-platform Task Management application built with **Ionic Framework** and **Angular**. This project is designed to demonstrate high-level architectural decisions, seamless Firebase integration, and a consistent user experience across web and mobile platforms.
 
-# 🚀 Live Demo & Installation
-You can download the compiled Android executable (APK) directly from the official release:
-👉 https://github.com/Steveng1997/staff-engineering-assessment-mobile/releases/tag/v1.0.0
+## 📺 Technical Walkthrough & Demo
+👉 **[Watch the Video Demo here](https://github.com/Steveng1997/staff-engineering-assessment-mobile/releases/download/v1.0.0/Steven_Garcia_Staff_Mobile_Assessment_Demo.mp4)**
 
-## 📺 Video Demo
-[Click here to watch the technical walkthrough](https://github.com/Steveng1997/staff-engineering-assessment-mobile/releases/download/v1.0.0/Steven_Garcia_Staff_Mobile_Assessment_Demo.mp4)
+## 📱 Mobile Executable
+👉 **[Download APK v1.0.0](https://github.com/Steveng1997/staff-engineering-assessment-mobile/releases/download/v1.0.0/Steven_Garcia_TaskManager_Challenge.apk)**
 
 # 🛠️ Technical Stack
 
