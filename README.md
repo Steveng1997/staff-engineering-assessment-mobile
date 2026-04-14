@@ -31,6 +31,17 @@ The application utilizes the **Ionic Grid system** to handle different screen de
 # 4. Robust Build Pipeline
 The environment is optimized for **Java 21**, ensuring compatibility with the latest Android Gradle Plugin (AGP) and stable jlink image transformations, avoiding common legacy toolchain conflicts.
 
+# 🍎 iOS Implementation Note
+The project is fully configured for iOS compatibility using Capacitor. However, due to local development environment restrictions (Windows-based), the .ipa file was not generated for this submission.
+
+To build for iOS, the project is ready to be compiled in a macOS environment using:
+
+npx cap add ios
+
+npx cap sync ios
+
+npx cap open ios
+
 # 📦 How to Run Locally
 
 1. # Clone the repository:
