@@ -6,15 +6,17 @@ You can download the compiled Android executable (APK) directly from the officia
 👉 Download APK v1.0.0
 
 # 🛠️ Technical Stack
-# Framework: Ionic 7+ / Angular 17+ (Standalone Components).
 
-# Bridge: Capacitor 6.
+**Framework:** Ionic 7+ / Angular 17+ (Standalone Components).
 
-# Backend-as-a-Service: Firebase (Firestore & Remote Config).
+**Bridge:** Capacitor 6.
 
-# Build Toolchain: Gradle with Java 21 (LTS).
+**Backend-as-a-Service:** Firebase (Firestore & Remote Config).
+
+**Build Toolchain:** Gradle with **Java 21 (LTS).**
 
 # 🧠 Architectural Decisions (Staff Level)
+
 # 1. Unified Design Language (Global MD Mode)
 To ensure 100% visual consistency between the web preview and the native Android app, the project is globally configured to force **Material Design (md)**. This prevents platform-specific styling discrepancies and ensures that the UI/UX remains identical regardless of the device.
 
